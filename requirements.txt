@@ -1,10 +1,13 @@
 black
 coverage
+docutils
+invoke
+ipdb
+ipython
 isort
-hypothesis
 mypy
+pdoc
 pip>=18
-ptpython
 pylint
 pytest
 setuptools>=40

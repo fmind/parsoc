@@ -4,8 +4,8 @@ import setuptools  # type: ignore
 
 META = dict(
     name="parsoc",
-    version="0.1.0",
-    description="Convert docx files to json",
+    version="0.2.0",
+    description="Convert docx files to json.",
     long_description=open("README.md", "r").read(),
     long_description_content_type="text/markdown",
     url="https://github.com/fmind/parsoc",
